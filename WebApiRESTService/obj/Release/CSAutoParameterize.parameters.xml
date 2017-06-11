@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ProductDBContext-Web.config Connection String" description="ProductDBContext Connection String used in web.config by the application to access the database." defaultValue="Data Source=s11.winhost.com;Initial Catalog=DB_110658_angshop;Persist Security Info=True;User ID=DB_110658_angshop_user;Password=Aa123456" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Ming\ Mac\\Desktop\\BaoShenyi\\WebApiRESTService\\WebApiRESTService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ProductDBContext']/@connectionString" />
+  </parameter>
+</parameters>

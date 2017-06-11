@@ -1,0 +1,96 @@
+﻿<html>
+<head>
+    <script src="~/Scripts/jquery-3.1.1.js"></script>
+    <script src="~/Scripts/app.js"></script>
+
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+
+</head>
+<body style="margin-top:30px;">
+
+    <!--Update product-->
+<div class="panel panel-primary col-xs-12 col-md-8 col-md-offset-1">
+
+    <div class="panel-heading"><h5>Product Admin</h5></div>
+
+    <div class="thumbnail" style="margin:20px; padding:10px 8px;">
+        
+        <label for="_ID"><b>Update Product by ID </b></label>
+        <hr />
+        <label for="_ID">ID:</label>
+        <input type="text" id="txtUpdate_ID" size="15" />
+
+
+        <label for="_Name">Product:</label>
+        <input type="text" id="txtUpdate_Description" size="15" />
+
+        <label for="_NameMFG">MFG:</label>
+        <input type="text" id="txtUpdate_Manufacturer" size="15" />
+
+        <label for="_Price">Price:</label>
+        <input type="text" id="txtUpdate_Price" size="15" />
+
+        <input type="button" value="Update" onclick="update();" />
+        <p id="productUpdate" />
+    </div>
+
+    
+    <!--Create product-->
+    <div class="thumbnail" style="margin:20px; padding:10px 8px;">
+        <label for="_New Product"><b>Create Product</b></label>
+        <hr />
+
+        <label for="_ID">ID:</label>
+        <input type="text" id="txtAdd_ID" size="15" />
+
+        <label for="_Name">Product:</label>
+        <input type="text" id="txtAdd_Description" size="15" />
+
+        <label for="_NameMFG">MFG:</label>
+        <input type="text" id="txtAdd_Manufacturer" size="15" />
+
+        <label for="_Price">Price:</label>
+        <input type="text" id="txtAdd_Price" size="15" />
+
+        <input type="button" value="Add" onclick="create();" />
+        <p id="productCreate" />
+    </div>
+
+
+    <!--Delete product by name-->
+    <div class="row" style="margin:10px; padding:5px;">
+        <div class="thumbnail col-xs-12 col-md-5" style="margin:20px; padding:10px 8px;">
+            <label for="mfgID">Delete Porduct by ID</label>
+            <hr />
+            <input type="text" id="mfgID" size="15" />
+            <input type="button" value="Delete" onclick="del();" />
+            <p id="productDelete" />
+        </div>
+
+
+        <!--Search product by name-->
+        <div class="thumbnail col-xs-12 col-md-5" style="margin:20px; padding:10px 8px;">
+            <div class="form-group">
+                <label for="mfgIdFind">Find Porduct by ID</label>
+                <hr />
+                <input type="text" id="mfgIdFind" size="15" />
+                <input type="button" value="Search" onclick="find();" />
+                <p id="manufacturerFind" />
+            </div>
+        </div>
+    </div>
+
+
+        <!--List all  request -->
+        <div class="thumbnail" style="margin:20px; padding:10px 8px;">
+            <form method="get" action="api/Manufacturers">
+
+                <input type="button" value="Show Products" onclick="sendRequest()" />
+                <hr />
+                <span id='value1'><br /></span>
+            </form>
+        </div>
+    </div>
+
+</body>
+</html>

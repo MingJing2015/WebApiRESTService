@@ -1,0 +1,241 @@
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\ApplicationInsights.config
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\roslyn\csc.exe
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\roslyn\vbc.exe
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\roslyn\VBCSCompiler.exe
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\WebApiRESTService.dll.config
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\WebApiRESTService.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\WebApiRESTService.pdb
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\EntityFramework.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\EntityFramework.SqlServer.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.Web.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\System.Web.Helpers.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\System.Web.Mvc.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\System.Web.Razor.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\System.Web.Webpages.Deployment.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\System.Web.Webpages.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\System.Web.Webpages.Razor.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\EntityFramework.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\EntityFramework.SqlServer.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.Web.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\System.Web.Razor.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\System.Web.Webpages.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\System.Web.Webpages.Deployment.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\System.Web.Webpages.Razor.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\System.Web.Helpers.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\System.Web.Mvc.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\obj\Debug\WebApiRESTService.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\obj\Debug\WebApiRESTService.pdb
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\Newtonsoft.Json.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\System.Net.Http.Formatting.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\System.Web.Http.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\System.Web.Http.WebHost.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\Newtonsoft.Json.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\System.Net.Http.Formatting.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\System.Web.Http.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\bin\System.Web.Http.WebHost.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day\WebApiRESTService\WebApiRESTService\obj\Debug\WebApiRESTService.csprojResolveAssemblyReference.cache
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\ApplicationInsights.config
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\roslyn\csc.exe
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\roslyn\vbc.exe
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\roslyn\VBCSCompiler.exe
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\WebApiRESTService.dll.config
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\WebApiRESTService.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\WebApiRESTService.pdb
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\EntityFramework.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\EntityFramework.SqlServer.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.Web.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\Newtonsoft.Json.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\System.Net.Http.Formatting.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\System.Web.Helpers.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\System.Web.Http.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\System.Web.Http.WebHost.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\System.Web.Mvc.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\System.Web.Razor.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\System.Web.Webpages.Deployment.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\System.Web.Webpages.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\System.Web.Webpages.Razor.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\EntityFramework.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\EntityFramework.SqlServer.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.Web.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\Newtonsoft.Json.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\System.Net.Http.Formatting.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\System.Web.Http.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\System.Web.Http.WebHost.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\System.Web.Razor.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\System.Web.Webpages.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\System.Web.Webpages.Deployment.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\System.Web.Webpages.Razor.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\System.Web.Helpers.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\System.Web.Mvc.xml
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\obj\Debug\WebApiRESTService.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\obj\Debug\WebApiRESTService.pdb
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\obj\Debug\WebApiRESTService.csprojResolveAssemblyReference.cache
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\System.Web.Cors.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\System.Web.Http.Cors.dll
+C:\Users\jingming\Desktop\SSD MyCourses\Asp Net\07 day Web API\WebApiRESTService\WebApiRESTService\bin\System.Web.Http.Cors.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\ApplicationInsights.config
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\roslyn\csc.exe
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\roslyn\vbc.exe
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\WebApiRESTService.dll.config
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\WebApiRESTService.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\WebApiRESTService.pdb
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\EntityFramework.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\EntityFramework.SqlServer.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.Web.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\Newtonsoft.Json.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\System.Net.Http.Formatting.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\System.Web.Cors.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\System.Web.Helpers.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\System.Web.Http.Cors.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\System.Web.Http.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\System.Web.Http.WebHost.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\System.Web.Mvc.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\System.Web.Razor.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\System.Web.Webpages.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\EntityFramework.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\EntityFramework.SqlServer.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.Web.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\Newtonsoft.Json.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\System.Net.Http.Formatting.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\System.Web.Http.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\System.Web.Http.Cors.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\System.Web.Http.WebHost.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\System.Web.Razor.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\System.Web.Webpages.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\System.Web.Helpers.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\bin\System.Web.Mvc.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\obj\Debug\WebApiRESTService.csprojResolveAssemblyReference.cache
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\obj\Debug\WebApiRESTService.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\07 day Web-API CORS REST Services\WebApiRESTService\WebApiRESTService\obj\Debug\WebApiRESTService.pdb
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\ApplicationInsights.config
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\roslyn\csc.exe
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\roslyn\vbc.exe
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\WebApiRESTService.dll.config
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\WebApiRESTService.dll
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\WebApiRESTService.pdb
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\EntityFramework.dll
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\EntityFramework.SqlServer.dll
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.Web.dll
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\Newtonsoft.Json.dll
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\System.Net.Http.Formatting.dll
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\System.Web.Cors.dll
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\System.Web.Helpers.dll
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\System.Web.Http.Cors.dll
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\System.Web.Http.dll
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\System.Web.Http.WebHost.dll
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\System.Web.Mvc.dll
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\System.Web.Razor.dll
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\System.Web.Webpages.dll
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\EntityFramework.xml
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\EntityFramework.SqlServer.xml
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.Web.xml
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\Newtonsoft.Json.xml
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\System.Net.Http.Formatting.xml
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\System.Web.Http.xml
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\System.Web.Http.Cors.xml
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\System.Web.Http.WebHost.xml
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\System.Web.Razor.xml
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\System.Web.Webpages.xml
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\System.Web.Helpers.xml
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\bin\System.Web.Mvc.xml
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\obj\Debug\WebApiRESTService.dll
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\obj\Debug\WebApiRESTService.pdb
+C:\Users\Ming Mac\Desktop\BaoShenyi\WebApiRESTService\WebApiRESTService\obj\Debug\WebApiRESTService.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="WebApiRESTService20170111023455" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Ming\ Mac\\Desktop\\SSD\ MyCourses\\Asp\ Net\\07\ day\ Web-API\ CORS\ REST\ Services\\WebApiRESTService\\WebApiRESTService\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Ming\ Mac\\Desktop\\SSD\ MyCourses\\Asp\ Net\\07\ day\ Web-API\ CORS\ REST\ Services\\WebApiRESTService\\WebApiRESTService\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="WebApiRESTService.Models.ProductDBContext-Web.config Connection String" description="" value="Data Source=tcp:ming.database.windows.net,1433;Initial Catalog=MySQL_serverDB;Persist Security Info=False;User ID=ming;Password=WeiRuan2016;Connect Timeout=30;Encrypt=True;TrustServerCertificate=False" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Ming\ Mac\\Desktop\\SSD\ MyCourses\\Asp\ Net\\07\ day\ Web-API\ CORS\ REST\ Services\\WebApiRESTService\\WebApiRESTService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='WebApiRESTService.Models.ProductDBContext']/@connectionString" />
+  </parameter>
+</parameters>
